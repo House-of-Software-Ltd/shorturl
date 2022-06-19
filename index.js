@@ -5,7 +5,6 @@ const morgan = require('morgan');
 
 const apiRoute = require('./routes/api');
 
-
 config();
 
 /**
